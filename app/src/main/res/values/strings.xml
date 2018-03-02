@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Citizen Engaged</string>
+    <string name="title">CITIZEN ENGAGED</string>
+    <string name="greeting">Welcome to</string>
+    <string name="startButton">let\'s get started</string>
+</resources>
